@@ -1,0 +1,3 @@
+Olá mundo! Este é o meu primeiro exercício de SO! Implementar um programa como o comando cp
+
+Espero que o consiga resolver e que corra bem!
